@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Welcome to the Mobile Price Prediction Model project! Our primary objective is to construct an advanced predictive model tailored for estimating mobile phone prices by analyzing their key features. The ultimate aim is to develop a powerful tool that provides valuable insights into the pricing dynamics of mobile phones, empowering users to make well-informed decisions.
+Welcome to the Mobile Price Prediction Model project! The primary objective of the project is to construct an advanced predictive model tailored for estimating mobile phone prices by analyzing their key features. The ultimate aim is to develop a powerful tool that provides valuable insights into the pricing dynamics of mobile phones, empowering users to make well-informed decisions.
 
 # Getting Started:
 
