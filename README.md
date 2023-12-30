@@ -26,35 +26,28 @@ pandas
 
 # Steps for Model Building and Selecting the Best Fit:
 
-1. Data Loading and Inspection:
+### Data Loading and Inspection:
 The initial steps involve loading the dataset and inspecting its structure and data types.
 
-2. Handling Missing Values and Outliers:
-
+### Handling Missing Values and Outliers:
 Address missing values and outliers in the dataset.
 
-3. Creating New Features:
-
+### Creating New Features:
 Explore opportunities to create new features from the existing dataset.
 
-4. Normalizing Datasets:
-
+### Normalizing Datasets:
 Normalize the datasets using techniques such as one-hot encoding and label encoding.
 
-5. Determining Feature and Target Variables:
-
+### Determining Feature and Target Variables:
 Identify the feature and target variables crucial for model training.
 
-6. Splitting Dataset into Train and Test Sets:
-
+### Splitting Dataset into Train and Test Sets:
 Divide the dataset into training and testing sets for model evaluation.
 
-7. Fitting Different Learning Models:
-
+### Fitting Different Learning Models:
 Experiment with various learning models, including Linear Regression, Decision Tree Regressor, Random Forest Regressor, SVR, and KNeighbors Regressor.
 
-8. Evaluating Model Performance:
-
+### Evaluating Model Performance:
 Assess the performance of each model using evaluation metrics such as mean absolute error, mean squared error, and R2 score.
 
 # Conclusion:
