@@ -10,7 +10,7 @@ Welcome to the Mobile Price Prediction Model project! The primary objective of t
 
 Before delving into the model-building process, make sure you have the following dependencies:
 
-pandas
+- pandas
 - seaborn
 - matplotlib
 - label encoder from sklearn
