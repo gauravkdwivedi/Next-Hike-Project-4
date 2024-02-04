@@ -53,3 +53,5 @@ Assess the performance of each model using evaluation metrics such as mean absol
 # Conclusion:
 
 Upon employing various models on the dataset encoded using One-hot encoder, our analysis revealed that the Linear Regression Model, particularly when augmented with Principal Component Analysis (PCA), emerges as the optimal fit for this specific dataset. This finding positions the Mobile Price Prediction Model project as a reliable tool for gaining insights into mobile phone pricing dynamics and supporting well-informed decision-making."
+
+Tableau Dashboard link - [](https://public.tableau.com/app/profile/gaurav.kumar5265/viz/MobileData_17035263162380/Dashboard1?publish=yes)
